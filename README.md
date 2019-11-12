@@ -1,2 +1,4 @@
-# hello-world
-foreach
+<?php
+public function(){
+  $a=1;
+}
